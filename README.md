@@ -1,6 +1,6 @@
 <p align="center">
   <br/>
-  <img width="300" src="./assets/awesome-nuxt.svg" alt="logo of awesone-nuxt">
+  <img width="300" src="./assets/awesome-nuxt-blog.svg" alt="logo of awesone nuxt blog">
   <br/>
   <br/>
 </p>
