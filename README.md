@@ -51,7 +51,7 @@ A curated collection of blog starters built with Nuxt3
 ### DSFolio
 
 [Github](https://github.com/dsbalico/dsfolio-v2) / [Live Demo](https://dsfolio.vercel.app/)
-![DSFolio Screenshot](/assets/screenshots/Dsfolio.jpg)
+![DSFolio Screenshot](/assets/screenshots/dsfolio.jpg)
 
 ### IDE Theme
 
