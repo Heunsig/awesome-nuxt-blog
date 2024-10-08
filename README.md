@@ -1,11 +1,14 @@
 # Awesome Nuxt Blog (WIP)
 A curated collection of blog starters built with Nuxt3
 
+
+**Don't reinvent the wheel, focus on creating your original content**
+
 ## Starter Kits
-- [nuxt-blog-starter-wisp](https://github.com/Wisp-CMS/nuxt-blog-starter-wisp) :+1: :star: 1 
-- [alpine](https://github.com/nuxt-themes/alpine) :+1: :star: 302
-- [tailwind-nuxtjs-starter-glob](https://github.com/narasimhajupally/tailwind-nuxtjs-starter-blog) :+1: :star: 9
-- [zooper](https://github.com/fayazara/zooper) :+1: :star: 244
+- [Wanderlust](https://github.com/Wisp-CMS/nuxt-blog-starter-wisp) [Live Demo](https://nuxt-blog-starter-wisp.vercel.app/)
+- [alpine](https://github.com/nuxt-themes/alpine) [Live Demo](https://alpine.nuxt.space/articles)
+- [TailwindBlog](https://github.com/narasimhajupally/tailwind-nuxtjs-starter-blog) [Live Demo](https://nuxt-blog-starter-wisp.vercel.app/)
+- [zooper](https://github.com/fayazara/zooper) [Live Demo](https://zooper.pages.dev/)
 - [content-wind](https://github.com/Atinux/content-wind) :+1: :star: 800
 - [Bloggrify](https://github.com/bloggrify/bloggrify) :star: 76
 - [nuxt3-blog-starter](https://github.com/phpjscoding/nuxt3-blog-starter) :star: 0
