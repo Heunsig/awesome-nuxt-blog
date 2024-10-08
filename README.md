@@ -1,8 +1,8 @@
 <p align="center">
-  <br>
+  <br/>
   <img width="300" src="./screenshots/awesome-nuxt.svg" alt="logo of awesone-nuxt">
-  <br>
-  <br>
+  <br/>
+  <br/>
 </p>
 
 # Awesome Nuxt Blog (WIP)
