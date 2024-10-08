@@ -33,15 +33,21 @@ A curated collection of blog starters built with Nuxt3
 [Github](https://github.com/bloggrify/bloggrify) / [Live Demo](https://mistral.bloggrify.com/)
 ![Bloggrify Screenshot](/assets/screenshots/bloggrify.jpg)
 
+<!--
+NOTE: Not Working Properly
 ### Canopas
 
 [Github](https://github.com/canopas/nuxt-blog-kit) / [Live Demo](https://canopas.com/resources)
 ![Canopas Screenshot](/assets/screenshots/canopas.jpg)
+-->
 
+<!--
+NOTE: Not Working Properly 
 ### Claudia
 
 [Github](https://github.com/claudiabdm/portfolio-2021) / [Live Demo](https://www.claudiabdm.com/)
 ![Claudia Screenshot](/assets/screenshots/claudia.jpg)
+-->
 
 ### Content Wind
 
@@ -53,10 +59,13 @@ A curated collection of blog starters built with Nuxt3
 [Github](https://github.com/dsbalico/dsfolio-v2) / [Live Demo](https://dsfolio.vercel.app/)
 ![DSFolio Screenshot](/assets/screenshots/dsfolio.jpg)
 
+<!--
+NOTE: Not Working Properly
 ### IDE Theme
 
 [Github](https://github.com/alexdeploy/developer-portfolio-v2) / [Live Demo](https://developer-portfolio-v2.netlify.app/projects)
 ![IDE Theme](/assets/screenshots/ide-theme.gif)
+-->
 
 ### Jacky.fan
 
