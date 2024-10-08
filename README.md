@@ -1,3 +1,10 @@
+<p align="center">
+  <br>
+  <img width="300" src="./screenshots/awesome-nuxt.svg" alt="logo of awesone-nuxt">
+  <br>
+  <br>
+</p>
+
 # Awesome Nuxt Blog (WIP)
 
 A curated collection of blog starters built with Nuxt3
