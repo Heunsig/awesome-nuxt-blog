@@ -5,11 +5,13 @@
   <br/>
 </p>
 
-# Awesome Nuxt Blog (WIP)
+# Awesome Nuxt Blog
 
 A curated collection of blog starters built with Nuxt3
 
 **"Don’t reinvent the wheel. Start your blog with a starter kit and focus on creating original content."**
+
+> If you want to add your Nuxt3 blog, open an issue with the GitHub repo link, and I'll add it. A live demo is required.
 
 ## Starter Kits
 
