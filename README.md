@@ -104,6 +104,11 @@ NOTE: Not Working Properly
 [Github](https://github.com/nurRiyad/nuxt-blog) / [Live Demo](https://blog.nurriyad.xyz/)
 ![Riyad Screenshot](/assets/screenshots/riyad.jpg)
 
+### Rudy Ayitinya
+
+[Github](https://github.com/ayitinya/ayitinya.github.io) / [Live Demo](https://www.ayitinya.me/)
+![Riyad Screenshot](/assets/screenshots/rudy_ayitinya.jpg)
+
 ### TailwindBlog
 
 [Github](https://github.com/narasimhajupally/tailwind-nuxtjs-starter-blog) / [Live Demo](https://nuxt-blog-starter-wisp.vercel.app/)
