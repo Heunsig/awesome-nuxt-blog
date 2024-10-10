@@ -74,6 +74,11 @@ NOTE: Not Working Properly
 [Github](https://github.com/redfrogsss/nuxt-blog) / [Live Demo](https://blog.jacky.fan/)
 ![Jacky.fan Screenshot](/assets/screenshots/jacky.fan.jpg)
 
+### Jsulpis
+
+[Github](https://github.com/jsulpis/nuxt3-template) / [Live Demo](https://nuxt3-template-jsulpis.vercel.app/)
+![Jacky.fan Screenshot](/assets/screenshots/jsulpis.jpg)
+
 ### lichter.io
 
 [Github](https://github.com/manniL/lichter.io) / [Live Demo](https://www.lichter.io/)
