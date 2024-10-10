@@ -89,6 +89,11 @@ NOTE: Not Working Properly
 [Github](https://github.com/mdrathik/nuxtjs-tailwind-blog) / [Live Demo](https://nuxt-tailwind-blog.netlify.app/)
 ![Mondongo Screenshot](/assets/screenshots/mondongo.jpg)
 
+### pahachaan
+
+[Github](https://github.com/aksharahegde/pahachaan) / [Live Demo](https://aksharahegde.xyz/)
+![Mondongo Screenshot](/assets/screenshots/pahachaan.jpg)
+
 ### Plant
 
 [Github](https://github.com/phpjscoding/nuxt3-blog-starter) / [Live Demo](https://nuxt3-blog-starter.pages.dev/)
