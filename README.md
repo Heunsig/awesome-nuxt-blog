@@ -133,3 +133,10 @@ NOTE: Not Working Properly
 
 [Github](https://github.com/fayazara/zooper) / [Live Demo](https://zooper.pages.dev/)
 ![Zooper Screenshot](/assets/screenshots/zooper.jpg)
+
+### AdminForth AI-Assisted blog
+
+[Github](https://github.com/devforth/adminforth-example-ai-blog) / [Live Demo](https://blog-demo.adminforth.dev/admin/) / [How to](https://adminforth.dev/blog/ai-blog/)
+
+![image](https://github.com/user-attachments/assets/44683afe-3446-4200-99f8-eac228ce8418)
+
