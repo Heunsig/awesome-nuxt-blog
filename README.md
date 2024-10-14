@@ -50,6 +50,10 @@ NOTE: Not Working Properly
 [Github](https://github.com/claudiabdm/portfolio-2021) / [Live Demo](https://www.claudiabdm.com/)
 ![Claudia Screenshot](/assets/screenshots/claudia.jpg)
 -->
+### Canvas
+
+[Github](https://github.com/HugoRCD/canvas) / [Live Demo](https://canvas.hrcd.fr/)
+![Content-Wind Screenshot](/assets/screenshots/canvas.jpg)
 
 ### Content Wind
 
