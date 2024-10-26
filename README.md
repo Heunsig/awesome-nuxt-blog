@@ -123,6 +123,11 @@ NOTE: Not Working Properly
 [Github](https://github.com/narasimhajupally/tailwind-nuxtjs-starter-blog) / [Live Demo](https://nuxt-blog-starter-wisp.vercel.app/)
 ![TailwindBlog Screenshot](/assets/screenshots/tailwindblog.jpg)
 
+### Tuyen Le Blog
+
+[Github](https://github.com/levinhtuyen/portfolio-developer-and-blog) / [Live Demo](https://tuyenleblog.tech/)
+![TailwindBlog Screenshot](/assets/screenshots/tuyenleblog.jpg)
+
 ### Wanderlust
 
 [Github](https://github.com/Wisp-CMS/nuxt-blog-starter-wisp) / [Live Demo](https://nuxt-blog-starter-wisp.vercel.app/)
