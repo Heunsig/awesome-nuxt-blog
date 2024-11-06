@@ -118,6 +118,11 @@ NOTE: Not Working Properly
 [Github](https://github.com/ayitinya/ayitinya.github.io) / [Live Demo](https://www.ayitinya.me/)
 ![Riyad Screenshot](/assets/screenshots/rudy_ayitinya.jpg)
 
+### Stoman
+
+[Github](https://github.com/Heunsig/nuxtjs-tailwindcss-portfolio) / [Live Demo](https://nuxtjs-tailwindcss-portfolio-three.vercel.app/)
+![Riyad Screenshot](/assets/screenshots/stoman.png)
+
 ### TailwindBlog
 
 [Github](https://github.com/narasimhajupally/tailwind-nuxtjs-starter-blog) / [Live Demo](https://nuxt-blog-starter-wisp.vercel.app/)
