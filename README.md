@@ -128,6 +128,11 @@ NOTE: Not Working Properly
 [Github](https://github.com/narasimhajupally/tailwind-nuxtjs-starter-blog) / [Live Demo](https://nuxt-blog-starter-wisp.vercel.app/)
 ![TailwindBlog Screenshot](/assets/screenshots/tailwindblog.jpg)
 
+### The Green Cronical
+
+[Github](https://github.com/Barbapapazes/the-green-chronicle) / [Live Demo](https://the-green-chronicle.barbapapazes.dev/)
+![The Green Cronical Screenshot](/assets/screenshots/the-green-cronical.jpg)
+
 ### Tuyen Le Blog
 
 [Github](https://github.com/levinhtuyen/portfolio-developer-and-blog) / [Live Demo](https://tuyenleblog.tech/)
